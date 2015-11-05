@@ -1,0 +1,16 @@
+/* TEAM */
+	Boss: fredrik(at)parfait.se
+	Twitter: @parfait74
+
+/* THANKS */
+	Inspiration: Annika Edström
+	Teacher: Johan Leitet
+	Teacher: John Häggerud
+	Teacher: Mats Loock
+	Teacher: Jacon Lindehoff
+	
+/* SITE */
+	Language: Swedish / English
+	Doctype: HTML5
+	IDE: Webstorm, Atom
+	
