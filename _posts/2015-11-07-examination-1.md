@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Examination 1"
+title:  "1dv022 - Examination 1"
 date:   2015-11-07
 categories: jekyll update
 author: Fred
@@ -22,3 +22,11 @@ author: Fred
 ### How did you implement comments to blog posts?
 
 ### What is Open Graph and how do you make use of it?
+This protocol enables a website to have multiple social objects.
+It's done through adding metadata to the webpage. There are four required properties.
+
+#### Required properties:
+* title
+* type
+* image
+* url
