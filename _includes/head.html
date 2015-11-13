@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <meta property="og:title" content="Parfait the Great" />
-    <meta property="og:url" content="http://www.github.com/parfait74" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:url" content="{{ post.url | prepend: site.baseurl }}" />
     <meta property="og:type" content="profile.parfait74" />
     <meta property="og:image" content="" />
 </head>
