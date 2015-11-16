@@ -2,9 +2,11 @@
 title: Parfait
 email: fredrik@parfait.se
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+
+  This site is about Parfait74 and his education, work and hobbies. At the moment
+  he works at CSC in Stockholm as a Solution Architect and is also attendeing a
+  program at Linné University called "Utveckling och drift av mjukvarubaserade system".
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: parfait74
