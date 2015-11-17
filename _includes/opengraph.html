@@ -1,4 +1,4 @@
-<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:title" content="{% if page.title %} {{ page.title }} {% else %} {{ site.title}} {% endif %}" />
 <meta property="og:url" content="{{ site.baseurl }}" />
 <meta property="og:type" content="profile.parfait74" />
 <meta property="og:image" content="" />
