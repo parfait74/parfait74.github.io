@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   at CSC in Stockholm as a Solution Architect he is is also attending a
   program at Linné University called "Utveckling och drift av mjukvarubaserade system".
 
-baseurl: http://parfait74.github.io
-url: http://parfait74.github.io
+baseurl:
+url:
 twitter_username: parfait74
 github_username:  parfait74
 

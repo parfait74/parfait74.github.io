@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class ="site-logo">{% include icons/logo.html %}</div>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -21,6 +21,11 @@
         {% endfor %}
       </div>
     </nav>
+
+    <div class="site-title">
+    <h1><a href="{{ site.baseurl }}/">Parfait</a></h1>
+    </div>
+    <p class="site-kicker">Thinker // Slacker // DOer</p>
 
   </div>
 
